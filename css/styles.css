@@ -167,3 +167,15 @@ h3{
 .social-links:hover{
     color: black;
 }
+
+
+@media (max-width: 993px){
+    .title-img{
+        position: static;
+        transform: rotate(0);
+    }
+
+    #title{
+        text-align: center;
+    }
+}
